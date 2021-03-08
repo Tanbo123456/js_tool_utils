@@ -1,0 +1,16 @@
+{
+  "name": "tanbo_js_tools",
+  "version": "1.0.0",
+  "description": "自定义js工具函数库",
+  "keywords":["js","tool","array","function","axios"],
+  "main": "dist/js_tool_utils.js",
+  "scripts": {
+    "build":"webpack"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^5.24.4",
+    "webpack-cli": "^4.5.0"
+  }
+}
